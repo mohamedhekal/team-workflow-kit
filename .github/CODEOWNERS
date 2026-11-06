@@ -1,0 +1,6 @@
+# Default owner for everything
+*       @mohamedhekal
+
+# Process documents
+/docs/  @mohamedhekal
+/.github/ @mohamedhekal
